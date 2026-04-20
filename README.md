@@ -1,2 +1,2 @@
 # Major-Project
-Using MongoDB, ExpressJS, NodeJS and EJS.
+Using MongoDB, ExpressJS, NodeJS, Bootstrap and EJS.
